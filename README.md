@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumit Angad Dhoble
 
-🎓 MCA Graduate | 💻 Software Developer | 📊 Data Analytics & Machine Learning Enthusiast  
+🎓 MCA pursuing at Deogiri college, Chhatrapati Sambhajinagar  | 💻 Software Developer | 📊 Data Analytics & Machine Learning Enthusiast  
 
 I am a motivated **Master of Computer Applications (MCA)** pursuing  with a strong foundation in **software development, data analytics, and machine learning**. I enjoy building scalable applications, intelligent ML models, and interactive dashboards to solve real-world problems.
 
